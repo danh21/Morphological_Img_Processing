@@ -1,6 +1,6 @@
 # 📦 Project Name
 
-> Image filtering in image processing.
+> Morphological image processing.
 
 ---
 
@@ -20,15 +20,17 @@
 
 ## 📝 About
 
-> This is a simple tool to filter image by many types.
+> This is a simple tool to extract image by many types.
 
 ---
 
 ## ✨ Features
 
-- ✅ Add noise with density (Gaussian, Poisson, Salt & Pepper, Speckle)
-- ✅ Noise removal filter by size
-- ✅ Enhancement
+- ✅ Display binary image
+- ✅ Dilation
+- ✅ Erosion
+- ✅ Opening / Closing
+- ✅ Display number of objects
 
 ---
 
@@ -50,7 +52,7 @@
 - Change folder to location containing source code
 - Run
 - When app window opens, choose image file first
-- Apply custom image filters (fill mandatory parameters) and see results 
+- Press functional buttons and see results 
 
 ### Reference
 
